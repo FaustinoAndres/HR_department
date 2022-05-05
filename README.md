@@ -33,5 +33,3 @@
 puedes ver el proyecto en [Deepnote](https://deepnote.com/workspace/faustino-correa-cc4ec6e7-da5e-4570-b1cf-432989db7d55/project/Human-Resources-512ef2d7-1572-48f8-b46e-70c1decc3795/%2FHR_department%2Fhr_department_notebook.ipynb)
 
 ![](images/error.png)
-
-Proyecto del curso "Data Science aplicado a negocios" de Juan Gabriel Gomila.
